@@ -3,4 +3,6 @@ print("Day 2")
 
 a=5;
 
-print(a)
+pri(a)
+ifsekfn:
+aklsdfsadffkasd
